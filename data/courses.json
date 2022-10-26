@@ -8,8 +8,8 @@
         },
         "price": 99.99,
         "total_students": 214122,
-        "course-duration": 15.8,
-        "course-lecture": 225,
+        "course_duration": 15.8,
+        "course_lecture": 225,
         "title": "Flutter & Dart - The Complete Guide [2022 Edition]",
         "author": {
             "name": "Maximilian Schwarzmüller",
@@ -18,7 +18,7 @@
         },
         "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/1708340_7108_5.jpg",
         "image_url": "https://img-b.udemycdn.com/course/240x135/1708340_7108_5.jpg",
-        "details": "Join the most comprehensive & bestselling Flutter course and learn how to build amazing iOS and Android apps! You don't need to learn Android/ Java and iOS/ Swift to build real native mobile apps! <br/> Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces. Flutter is extremely trending and gets used for major Google apps like their Adwords app - it's now marked as 'ready for production', hence now is the time to jump in and learn it!  This course will teach Flutter & Dart from scratch, NO prior knowledge of either of the two is required! And you certainly don't need any Android or iOS development experience since the whole idea behind Flutter is to only learn one language. You'll learn Flutter not only in theory but we'll build a complete, realistic app throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more! With Flutter, you'll be able to write code only once and ship your apps both to the Apple AppStore and Google Play.Use Google's Material Design to build beautiful, yet fully customizable, apps in no time with almost zero effort. You can use the rich widget suite Flutter provides to add common UI elements like buttons, switches, forms, toolbars, lists and more - or you simply build your own widgets - Flutter makes that a breeze, too."
+        "details": "Join the most comprehensive & bestselling Flutter course and learn how to build amazing iOS and Android apps! You don't need to learn Android/ Java and iOS/ Swift to build real native mobile apps!  Flutter - a framework developed by Google - allows you to learn one language (Dart) and build beautiful native mobile apps in no time. Flutter is a SDK providing the tooling to compile Dart code into native code and it also gives you a rich set of pre-built and pre-styled UI elements (so called widgets) which you can use to compose your user interfaces. Flutter is extremely trending and gets used for major Google apps like their Adwords app - it's now marked as 'ready for production', hence now is the time to jump in and learn it!  This course will teach Flutter & Dart from scratch, NO prior knowledge of either of the two is required! And you certainly don't need any Android or iOS development experience since the whole idea behind Flutter is to only learn one language. You'll learn Flutter not only in theory but we'll build a complete, realistic app throughout this course. This app will feature both all the core basics as well as advanced features like using Google Maps, the device camera, adding animations and more! With Flutter, you'll be able to write code only once and ship your apps both to the Apple AppStore and Google Play.Use Google's Material Design to build beautiful, yet fully customizable, apps in no time with almost zero effort. You can use the rich widget suite Flutter provides to add common UI elements like buttons, switches, forms, toolbars, lists and more - or you simply build your own widgets - Flutter makes that a breeze, too."
     },
     {
         "_id": "sdayqfce9kxn2phjbv3osdayqfce9kxn2phjbv3o",
@@ -29,8 +29,8 @@
         },
         "price": 109.99,
         "total_students": 341482,
-        "course-duration": 20.5,
-        "course-lecture": 327,
+        "course_duration": 20.5,
+        "course_lecture": 327,
         "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
         "author": {
             "name": "Colt Steele",
@@ -50,8 +50,8 @@
         },
         "price": 119.99,
         "total_students": 585025,
-        "course-duration": 25,
-        "course-lecture": 165,
+        "course_duration": 25,
+        "course_lecture": 165,
         "title": "Python for Data Science and Machine Learning Bootcamp",
         "author": {
             "name": "Jose Portilla",
@@ -71,8 +71,8 @@
         },
         "price": 84.99,
         "total_students": 38243,
-        "course-duration": 39,
-        "course-lecture": 313,
+        "course_duration": 39,
+        "course_lecture": 313,
         "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
         "author": {
             "name": "Colt Steele",
@@ -92,8 +92,8 @@
         },
         "price": 129.99,
         "total_students": 107191,
-        "course-duration": 29.5,
-        "course-lecture": 376,
+        "course_duration": 29.5,
+        "course_lecture": 376,
         "title": "The Complete Angular Course: Beginner to Advanced",
         "author": {
             "name": "Mosh Hamedani",
@@ -113,8 +113,8 @@
         },
         "price": 84.99,
         "total_students": 172899,
-        "course-duration": 15,
-        "course-lecture": 198,
+        "course_duration": 15,
+        "course_lecture": 198,
         "title": "Understanding TypeScript",
         "author": {
             "name": "Maximilian Schwarzmüller",

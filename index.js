@@ -8,6 +8,7 @@ app.use(cors());
 
 const categories = require('./data/categories.json')
 const courses = require('./data/courses.json')
+const cart = require('./data/cart.json')
 
 app.get('/', (req, res) => {
   res.send('CodeAcademy API running')
@@ -31,6 +32,12 @@ app.get('/course/:id',(req, res)=>{
   const id = req.params.id;
   const selectedCourse = courses.find(n=> n._id === id);
   res.send(selectedCourse)
+})
+
+app.get('/course/:id/cart', (req, res)=>{
+  const id = req.params.id;
+  const selectCourseCart = cart.find(n=>n._id === id);
+  res.send(selectCourseCart)
 })
 
 app.listen(port, () => {

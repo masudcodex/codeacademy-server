@@ -1,0 +1,122 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+       "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 99.99,
+        "total_students": 214122,
+        "course_duration": 15.8,
+        "course_lecture": 225,
+        "title": "Flutter & Dart - The Complete Guide [2022 Edition]",
+        "author": {
+            "name": "Maximilian Schwarzmüller",
+            "last_updated": "5/2022",
+            "img": "https://img-b.udemycdn.com/user/200_H/13952972_e853.jpg"
+        },
+        "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/1708340_7108_5.jpg",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/1708340_7108_5.jpg"
+    },
+    {
+        "_id": "sdayqfce9kxn2phjbv3osdayqfce9kxn2phjbv3o",
+        "category_id": "02",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "price": 109.99,
+        "total_students": 341482,
+        "course_duration": 20.5,
+        "course_lecture": 327,
+        "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "author": {
+            "name": "Colt Steele",
+            "last_updated": "10/2022",
+            "img": "https://img-b.udemycdn.com/user/200_H/4466306_6fd8_3.jpg"
+        },
+        "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/1187016_51b3.jpg",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/1187016_51b3.jpg"
+    },
+    {
+        "_id": "i1bsp4q386vkezfmunxli1bsp4q386vkezfmunxl",
+        "category_id": "03",
+        "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+        },
+        "price": 119.99,
+        "total_students": 585025,
+        "course_duration": 25,
+        "course_lecture": 165,
+        "title": "Python for Data Science and Machine Learning Bootcamp",
+        "author": {
+            "name": "Jose Portilla",
+            "last_updated": "2/2022",
+            "img": "https://img-b.udemycdn.com/user/200_H/9685726_67e7_4.jpg"
+        },
+        "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/903744_8eb2.jpg"
+    },
+    {
+        "_id": "zxbie2h4yja6qugdw58czxbie2h4yja6qugdw58c",
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": 84.99,
+        "total_students": 38243,
+        "course_duration": 39,
+        "course_lecture": 313,
+        "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "author": {
+            "name": "Colt Steele",
+            "last_updated": "5/2019",
+            "img": "https://img-b.udemycdn.com/user/200_H/4466306_6fd8_3.jpg"
+        },
+        "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/2320056_4fa0_6.jpg",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/2320056_4fa0_6.jpg"
+    },
+    {
+        "_id": "2ty3ei9wkacognqsdju82ty3ei9wkacognqsdju8",
+        "category_id": "04",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "price": 129.99,
+        "total_students": 107191,
+        "course_duration": 29.5,
+        "course_lecture": 376,
+        "title": "The Complete Angular Course: Beginner to Advanced",
+        "author": {
+            "name": "Mosh Hamedani",
+            "last_updated": "8/2020",
+            "img": "https://img-b.udemycdn.com/user/200_H/712832_5e8d_3.jpg"
+        },
+        "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/1247828_32bb.jpg",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/1247828_32bb.jpg"
+    },
+    {
+        "_id": "2ezxkyq07vhb4p1muoi92ezxkyq07vhb4p1muoi9",
+        "category_id": "04",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "price": 84.99,
+        "total_students": 172899,
+        "course_duration": 15,
+        "course_lecture": 198,
+        "title": "Understanding TypeScript",
+        "author": {
+            "name": "Maximilian Schwarzmüller",
+            "last_updated": "8/2022",
+            "img": "https://img-b.udemycdn.com/user/200_H/13952972_e853.jpg"
+        },
+        "thumbnail_url": "https://img-b.udemycdn.com/course/240x135/947098_02ec_2.jpg",
+        "image_url": "https://img-b.udemycdn.com/course/240x135/947098_02ec_2.jpg"
+    }
+]
